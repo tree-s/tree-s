@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike MacMullin, P. Eng.</h1>
 <h3 align="center">A Computer Engineering graduate of Memorial University Newfoundland and Labrador with 10+ years of technical experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tree-s" alt="tree-s" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://tree-s.github.io/](https://tree-s.github.io/)
 
 - 📝 I occasionally write articles on [audiles.net](audiles.net)
